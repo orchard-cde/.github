@@ -9,9 +9,6 @@ Orchard is an open-source Cloud Development Environment platform: it provisions 
 | Repo | What it is |
 |---|---|
 | [orchard](https://github.com/orchard-cde/orchard) | Platform server, CLI (`trowel`), devcontainer runtime |
-| [orchard-ui](https://github.com/orchard-cde/orchard-ui) | Web UI (Canopy) |
-| [orchard-vscode-extension](https://github.com/orchard-cde/orchard-vscode-extension) | VS Code extension |
-| [website](https://github.com/orchard-cde/website) | Marketing and docs |
 
 ## Getting started
 
