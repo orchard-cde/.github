@@ -8,6 +8,8 @@ File an issue on the relevant repository using the bug or feature template. Secu
 
 ## Submitting changes
 
+> **GitHub is the source of truth.** Pull requests are accepted only on GitHub. The [gitlab.com/orchard-cde](https://gitlab.com/orchard-cde) mirror is a read-only backup — issues, PRs, and merge requests opened there are not monitored.
+
 1. Fork the repo and create a feature branch from `main`.
 2. Make your change. Keep PRs focused: one concern per PR.
 3. Add or update tests. Every repo's CI must pass.
