@@ -18,6 +18,10 @@ Orchard is an open-source Cloud Development Environment platform: it provisions 
 
 See the [orchard README](https://github.com/orchard-cde/orchard#quick-start).
 
+## Roadmap
+
+See the [Orchard Roadmap](https://github.com/orgs/orchard-cde/projects/2) for what we're exploring, what's planned, what's in progress, and what's shipped.
+
 ## License
 
 Every repo in this org is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
